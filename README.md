@@ -5,7 +5,7 @@
 <tr>
     <td>
     
-- 👨‍💼 Research Scientist, Software Engineer & Entrepreneur at [wearebo](https://wearebo.co)
+- 👨‍💼 Software Engineer, Data Scientist & Entrepreneur at [wearebo](https://wearebo.co)
 - 👨‍🏫 Computational Social Science at [Social Physics and Complexity](https://lip.pt/ROOT/research/group?SPAC)
 - 👨‍🔬 Data Science & Engineering at [Tecnico Lisboa](https://tecnico.ulisboa.pt/en)
 
