@@ -7,7 +7,7 @@
     
 - 👨‍💼 Software, Data and Machine Learning Engineer at [wearebo](https://wearebo.co)
 - 👨‍🏫 Invited Research Engineer at [Social Physics and Complexity](https://lip.pt/?section=research&page=research-group-details&details=project&projectid=95&line=Scientific-Computing)
-- 👨‍🔬 Data Science & Engineering at [Tecnico Lisboa](https://tecnico.ulisboa.pt/en)
+- 👨‍🔬 Data Science & Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en)
 
 </tr>
 </table>
